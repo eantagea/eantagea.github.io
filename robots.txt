@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eantagea.github.io/eantagea.eantagea
+Sitemap: https://eantagea.github.io/app/eantagea.eantagea
+Sitemap: https://eantagea.github.io/assets/eantagea.eantagea
+Sitemap: https://eantagea.github.io/css/eantagea.eantagea
+Sitemap: https://eantagea.github.io/includes/eantagea.eantagea
+Sitemap: https://eantagea.github.io/item/eantagea.eantagea
+Sitemap: https://eantagea.github.io/src/eantagea.eantagea
